@@ -1,5 +1,7 @@
 name := """morphia-guice"""
 
+organization := "com.lvxingpai"
+
 version := "0.1.0-SNAPSHOT"
 
 scalaVersion := "2.11.4"
